@@ -1,0 +1,53 @@
+/*
+body{
+    text-align:center;
+    
+}*/
+/*
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: aliceblue
+}
+img {
+width:10%;
+height:40%;
+}
+
+img {
+	
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1.66%;
+	font-size: 30px;
+	font-style: Black;
+	font-weight: 900;
+	text-transform: uppercase;
+	width: 61.66%;
+	border-bottom: 8px solid #f3f3f3;
+	padding-bottom: 30px;
+
+}
+
+#htwo {
+  color:#00BCD4;
+}
+#hone {
+  color:#FF4081;
+}*/
